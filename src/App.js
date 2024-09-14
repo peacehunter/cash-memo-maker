@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import jsPDF from 'jspdf';
-import html2canvas from 'html2canvas';
+
 import { BrowserRouter as Router, Route, Routes, Link, useNavigate, useParams } from 'react-router-dom';
 
 function App() {
