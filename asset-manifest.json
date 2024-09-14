@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cash-memo-maker/static/css/main.212f7daf.css",
+    "main.js": "/cash-memo-maker/static/js/main.ec964176.js",
+    "static/js/213.76016d31.chunk.js": "/cash-memo-maker/static/js/213.76016d31.chunk.js",
+    "static/js/732.251d9fe3.chunk.js": "/cash-memo-maker/static/js/732.251d9fe3.chunk.js",
+    "static/js/453.d735c108.chunk.js": "/cash-memo-maker/static/js/453.d735c108.chunk.js",
+    "index.html": "/cash-memo-maker/index.html",
+    "main.212f7daf.css.map": "/cash-memo-maker/static/css/main.212f7daf.css.map",
+    "main.ec964176.js.map": "/cash-memo-maker/static/js/main.ec964176.js.map",
+    "213.76016d31.chunk.js.map": "/cash-memo-maker/static/js/213.76016d31.chunk.js.map",
+    "732.251d9fe3.chunk.js.map": "/cash-memo-maker/static/js/732.251d9fe3.chunk.js.map",
+    "453.d735c108.chunk.js.map": "/cash-memo-maker/static/js/453.d735c108.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.212f7daf.css",
+    "static/js/main.ec964176.js"
+  ]
+}
